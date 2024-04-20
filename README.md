@@ -46,7 +46,7 @@ font and color cd ~/.termux
 
 <img src="lock.png" width="200" hight="220">
 
-<img src="lock.jpg" width="200" hight="220">
+<img src="lock.jpeg" width="200" hight="220">
 
 
 
