@@ -44,3 +44,9 @@ after complete all processing just --open new session-- or `source ~/.zshrc`
 edit style nano ~/.zshrc 
 font and color cd ~/.termux
 
+<img src="lock.png" width="200" hight="220">
+
+<img src="lock.jpg" width="200" hight="220">
+
+
+
