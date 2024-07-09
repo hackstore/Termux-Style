@@ -14,7 +14,7 @@ echo -e $grn
 cp .ProHunter/colors.properties ~/.termux
 cp .ProHunter/font.ttf ~/.termux
 echo -e $grn
-chmod +x .zsh_history .zshrc
+chmod +x .bashrc
 echo -e $grn
 exit
 
