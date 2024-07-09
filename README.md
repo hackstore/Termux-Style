@@ -25,7 +25,7 @@ Setup Termux Style By ph
 
 5. `bash t-header.sh`
 
-Can You Use ProHunter Termi
+Can You Use ProHunter Terminal
 
 6. `chmod +x prohunter`
 
